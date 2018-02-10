@@ -1,14 +1,11 @@
 // defines pins numbers
-#define tP1 10
-#define eP1 11
-#define jeshile1 13
-#define blu1 12
-#define tP2 6
-#define eP2 5
-#define b 13
-#define jeshile2 4
-#define blu2 2
-
+#define trigPin1 2
+#define echoPin1 3
+#define g 9
+#define r 8
+#define trigPin2 4
+#define echoPin1 5
+#define buzzer 6
 
 // defines variables
 float d1, Dis1, d2, Dis2;
